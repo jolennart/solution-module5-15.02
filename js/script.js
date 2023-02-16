@@ -9,6 +9,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
   });
 });
 
+
 (function (global) {
 
 var dc = {};
