@@ -16,11 +16,11 @@ var dc = {};
 
 var homeHtmlUrl = "snippets/home-snippet.html";
 var allCategoriesUrl =
-  "https://jolennart.github.io/solution-module5-15.02/categories.json";
+  "https://coursera-jhu-default-rtdb.firebaseio.com/categories.json";
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
 var menuItemsUrl =
-  "https://jolennart.github.io/solution-module5-15.02/";
+  "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/";
 var menuItemsTitleHtml = "snippets/menu-items-title.html";
 var menuItemHtml = "snippets/menu-item.html";
 
